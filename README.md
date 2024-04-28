@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @callMeKmo
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning game development
+- 👋 Hi, I’m Mustafa Elbolok
+- 👀 I’m interested in software development
+- 🌱 I’m currently learning Advanced backend structures and patterns
 - 💞️ I’m looking to collaborate on virtual gate
 - 📫 How to reach me contact through gmail: callmekmo1@gmail.com
